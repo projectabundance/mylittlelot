@@ -19,4 +19,12 @@ h1 {
   color: #ffffff;
   border-radius: 8px;
   text-transform: uppercase;
+}
+
+.btnSecondary {
+  background-color: #ffffff;
+  border: 1px solid #333333;
+  color: #333333;
+  border-radius: 8px;
+  text-transform: uppercase;
 }/*# sourceMappingURL=style.css.map */
