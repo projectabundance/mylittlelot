@@ -1,7 +1,11 @@
+$fontPrimary: 'Poppins', sans-serif;
+$fontSecondary: 'Poppins', sans-serif;
+$fontTertiary: 'Crimson Pro', serif;
+
 p {
-    font-family: 'Poppins', sans-serif;
+    font-family: $fontPrimary
 }
 
 h1 {
-    font-family: 'Sacramento', cursive;
+    font-family: $fontTertiary;
 }
