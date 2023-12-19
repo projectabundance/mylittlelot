@@ -1,6 +1,24 @@
+// Font Family
 $fontPrimary: 'Poppins', sans-serif;
 $fontSecondary: 'Crimson Pro', serif;
 $fontTertiary: 'Sacramento', cursive;
+
+// Font Size
+    // All Text
+    $fsXs: 12px;
+    $fsSm: 14px;
+    $fsR: 16px;
+    $fsMd: 18px;
+    $fsLg: 20px;
+    $fsXl: 24px;
+    $fsXxl: 26px;
+    //Headeings
+    $h1: 32px; 
+    $h2: 28px; 
+    $h3: 26px; 
+    $h4: 24px; 
+    $h5: 22px; 
+    $h6: 20px; 
 
 p {
     font-family: $fontPrimary

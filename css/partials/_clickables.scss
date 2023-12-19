@@ -1,7 +1,4 @@
-@import 'typography';
-@import 'color';
-@import 'fontSize';
-@import 'value';
+@import '../style.scss';
 
 .btnPrimary {
     background-color: $colorDarkGrey;
