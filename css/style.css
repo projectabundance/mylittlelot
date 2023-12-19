@@ -4,4 +4,19 @@ p {
 
 h1 {
   font-family: "Sacramento", cursive;
+}
+
+p {
+  font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  font-family: "Sacramento", cursive;
+}
+
+.btnPrimary {
+  background-color: #333333;
+  color: #ffffff;
+  border-radius: 8px;
+  text-transform: uppercase;
 }/*# sourceMappingURL=style.css.map */

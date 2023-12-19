@@ -1,0 +1,11 @@
+@import 'typography';
+@import 'color';
+@import 'fontSize';
+@import 'value';
+
+.btnPrimary {
+    background-color: $colorDarkGrey;
+    color: $colorWhite;
+    border-radius: $rounded;
+    text-transform: uppercase;
+}
